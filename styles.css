@@ -11,30 +11,14 @@ body {
     background-color: white;
     font-family: 'Secular One', sans-serif;
 }
-
 #profile_img {
-    width: 100%;
+    margin: auto;
+    width: 20%;
     border-radius: 50%;
-    display: flex;
+    display: block;
     justify-content: center;
     align-items: center;
 }
-/* #profile_img { */
-    /* width: 100%; */
-    /* height: 10%; */
-    /* display: flex; */
-    /* border-radius: 50%; */
-    /* object-fit: contain; */
-    /* object-position: center; */
-    /* align-items: center; */
-/* } */
-/* #profile_img img { */
-    /* width: 10%; */
-    /* height: 10%; */
-    /* object-fit: contain; */
-    /* object-position: center; */
-/*  */
-/* } */
 #twitter, #btn_zuri, #books, #book_python, #pitch, #book_design {
     background-color: rgb(240, 241, 243);
     border: 5px;
